@@ -1,9 +1,9 @@
 # Krishna Kumar Bisoi  
-### Data Analyst | Analytics Engineer | SQL • Python • Tableau • Power BI  
+### Data Analyst | Analytics Engineer | SQL • Python • Tableau • Power BI • Data Engineering • ETL Pipelines • Business Intelligence
 
 📍 Worcester, MA  
-📧 kbisoi@clarku.edu  
-🔗 LinkedIn: https://www.linkedin.com/in/krishnabisoi  
+📧 [Gmail](krishnabisoi1603@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/krishna-bisoi-91b033185/)
 
 ---
 
@@ -27,14 +27,17 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 - **SQL** (MySQL, Oracle)
 - R, UNIX
 
-### Analytics & BI
+### Analytics & BI tools
 - **Tableau**
 - **Power BI**
 - Advanced Excel
 - KPI design & dashboard troubleshooting
+- UAT Support
 
 ### Data Engineering
 - ETL pipelines
+- Job Running
+- Informatica
 - Data Warehousing
 - Data Validation & Quality Checks
 - CI/CD basics
@@ -45,7 +48,7 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 
 ## 💼 Professional Experience
 
-### **Amdocs — Software Engineer**  
+### **Amdocs — Software Engineer**        
 *May 2021 – Aug 2023 | Pune, India*  
 **Client:** SingTel (Singapore Telecommunications)
 
@@ -71,22 +74,27 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 
 ## 📊 Featured Projects
 
-### 🚗 EV Trends & Range Forecasting (Capstone-Level Analytics)
-- Analyzed **100K+ EV records** to identify market and infrastructure trends
-- Built regression models achieving **87% R²**
-- Reduced prediction error by **35%** using hyperparameter tuning
-- Delivered insights for **policy and planning decisions**
+### 🚗 Electric Vhicle Trends & Range Forecasting
+This project analyzes Electric Vehicle (EV) adoption trends in the United States, with a deep focus on Washington State, using publicly available government data. The study examines Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) to uncover patterns in adoption, electric range, pricing, and geographic distribution.
 
-**Skills:** Python, SQL, Regression, Data Visualization
+Beyond exploratory analysis, the project builds a machine learning model to predict EV type using vehicle attributes such as make, model year, and electric range.
+
+Code - [Electric Vehicle Trends & Range Forecasting Code](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Electric_Vehicle_Trends.ipynb)
+
+Report - [Electric Vehicle Trends & Range Forecasting Report](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/README.md)
+
+**Skills:** Python, Pandas, Matplotlib/ Seaborn, Data Visualization
 
 ---
 
-### 🏠 Housing Price Modeling (Statistical Analytics)
-- Built predictive models in **R** with interaction and additive terms
-- Achieved **R² = 0.88**
-- Applied **Box-Cox transformation**, residual diagnostics, and multicollinearity checks
+### 🏠 Diabetes Prediction (Using Linear Regression)
+This project focuses on building and evaluating a Linear Regression model to predict diabetes outcomes using clinical and demographic attributes. The objective is to understand how key health indicators such as glucose levels, BMI, age, and insulin contribute to diabetes risk, while also demonstrating a complete end-to-end data preprocessing → modeling → evaluation workflow.
 
-**Skills:** R, Statistics, Linear Regression
+Code - [Diabetes Prediction Code](https://github.com/krishnabisoi/Machine_Learning/blob/master/Diabetes_Dataset/Diabetes_LinearRegression.ipynb)
+
+Report - [Diabetes Prediction Report](https://github.com/krishnabisoi/Machine_Learning/blob/master/Diabetes_Dataset/README.md)
+
+**Skills:** Python, Pandas, NumPy, Matplotlib/ Seaborn, Scikit-learn, Model Selection, Data Visualization
 
 ---
 
