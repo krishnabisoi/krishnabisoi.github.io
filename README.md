@@ -9,12 +9,12 @@
 
 ## 👋 About Me
 
-I am a **Data Analyst with 4+ years of experience** working across **telecom, enterprise data platforms, and analytics systems**, currently completing my **Master’s in Data Analytics** in the United States.
+I am a **Data Analyst with 4+ years of experience** working across **telecom, enterprise data platforms, and analytics systems**, currently completing my **Master’s in Data Analytics** from Clark University.
 
 I specialize in:
-- Turning **large, messy datasets (10M+ records)** into reliable insights  
-- Building **SQL-driven analytics pipelines** and **business-ready dashboards**  
-- Ensuring **data accuracy, validation, and reporting integrity** for decision-makers  
+- Turning **large, messy datasets (10M+ records)** into reliable insights.
+- Building **SQL-driven analytics pipelines** and **business-ready dashboards**.
+- Ensuring **data accuracy, validation, and reporting integrity** for decision-makers.
 
 I’ve worked in **production environments** at Accenture and Amdocs supporting global clients like **British Telecommunications (BT)** and **SingTel**, and I now focus on analytics, BI, and data engineering roles in the U.S. market.
 
@@ -72,9 +72,9 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projects
 
-### 🚗 Electric Vhicle Trends & Range Forecasting
+### Electric Vhicle Trends & Range Forecasting
 This project analyzes Electric Vehicle (EV) adoption trends in the United States, with a deep focus on Washington State, using publicly available government data. The study examines Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) to uncover patterns in adoption, electric range, pricing, and geographic distribution.
 
 Beyond exploratory analysis, the project builds a machine learning model to predict EV type using vehicle attributes such as make, model year, and electric range.
@@ -87,7 +87,7 @@ Report - [Electric Vehicle Trends & Range Forecasting Report](https://github.com
 
 ---
 
-### 🏠 Diabetes Prediction (Using Linear Regression)
+### Diabetes Prediction (Using Linear Regression)
 This project focuses on building and evaluating a Linear Regression model to predict diabetes outcomes using clinical and demographic attributes. The objective is to understand how key health indicators such as glucose levels, BMI, age, and insulin contribute to diabetes risk, while also demonstrating a complete end-to-end data preprocessing → modeling → evaluation workflow.
 
 Code - [Diabetes Prediction Code](https://github.com/krishnabisoi/Machine_Learning/blob/master/Diabetes_Dataset/Diabetes_LinearRegression.ipynb)
@@ -95,19 +95,6 @@ Code - [Diabetes Prediction Code](https://github.com/krishnabisoi/Machine_Learni
 Report - [Diabetes Prediction Report](https://github.com/krishnabisoi/Machine_Learning/blob/master/Diabetes_Dataset/README.md)
 
 **Skills:** Python, Pandas, NumPy, Matplotlib/ Seaborn, Scikit-learn, Model Selection, Data Visualization
-
----
-
-## 🧪 Data Validation & Analytics Philosophy
-
-I don’t just build dashboards — I **trust-proof data**.
-
-My approach:
-1. Validate source data
-2. Design clean fact–dimension structures
-3. Automate transformations
-4. Surface insights with context
-5. Enable business decisions, not just visuals
 
 ---
 
@@ -119,15 +106,6 @@ My approach:
 - **Junior Data Engineer**
 
 I thrive in roles where **data accuracy, scale, and business impact matter**.
-
----
-
-## 📈 What I’m Working On Now
-
-- Advanced SQL & data modeling
-- End-to-end analytics projects with business framing
-- Portfolio dashboards with executive-level storytelling
-- Job-ready capstone work
 
 ---
 
