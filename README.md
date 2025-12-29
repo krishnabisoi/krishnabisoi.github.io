@@ -85,6 +85,8 @@ Report - [Electric Vehicle Trends & Range Forecasting Report](https://github.com
 
 **Skills:** Python, Pandas, Matplotlib/ Seaborn, Data Visualization
 
+![EV_Adoption_Trends_Over_Time](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/04_EV_Adoption_Trends_Over_Time.png)
+
 ---
 
 ### Diabetes Prediction (Using Linear Regression)
@@ -95,6 +97,8 @@ Code - [Diabetes Prediction Code](https://github.com/krishnabisoi/Machine_Learni
 Report - [Diabetes Prediction Report](https://github.com/krishnabisoi/Machine_Learning/blob/master/Diabetes_Dataset/README.md)
 
 **Skills:** Python, Pandas, NumPy, Matplotlib/ Seaborn, Scikit-learn, Model Selection, Data Visualization
+
+![]()
 
 ---
 
