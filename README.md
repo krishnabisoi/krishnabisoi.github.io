@@ -1,5 +1,5 @@
 # Krishna Kumar Bisoi  
-### Data Analyst | Analytics Engineer | SQL • Python • Tableau • Power BI • Data Engineering • ETL Pipelines • Business Intelligence
+### Data Analyst | Analytics Engineer | SQL • Python • Tableau • Power BI • ETL Pipelines • Business Intelligence
 
 📍 Worcester, MA  
 📧 [Gmail](krishnabisoi1603@gmail.com)
