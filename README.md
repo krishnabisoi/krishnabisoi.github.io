@@ -1,4 +1,4 @@
-# Krishna Kumar Bisoi  
+# Krishna Kumar Bisoi 
 ### Data Analyst | Analytics Engineer | SQL • Python • Tableau • Power BI • ETL Pipelines • Business Intelligence
 
 📍 Worcester, MA  
