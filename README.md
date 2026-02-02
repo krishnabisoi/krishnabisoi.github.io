@@ -23,26 +23,16 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 ## 🧠 Core Skills
 
 ### Programming & Querying
-- **Python** (Pandas, NumPy, Scikit-learn)
-- **SQL** (MySQL, Oracle)
-- R, UNIX
+- **Python** (Pandas, NumPy, Scikit-learn), **SQL** (Advanced), R, UNIX
 
-### Analytics & BI tools
-- **Tableau**
-- **Power BI**
-- Advanced Excel
-- KPI design & dashboard troubleshooting
-- UAT Support
+### Analytics & Engineering
+- **Tableau**, **Power BI**, Advanced Excel, Report Optimization, **KPI** Metrics design, Stakeholders Facing Dashboards, UAT Support
 
 ### Data Engineering
-- ETL pipelines
-- Job Running
-- Informatica
-- Data Warehousing
-- Data Validation & Quality Checks
-- CI/CD basics
-- Git, JIRA, HP ALM
-- Agile / Scrum
+- **ETL pipelines**, Data Warehousing, Batch Job Running, SQL Transformations, Data Modeling (Star/Snowflake), Data Quality Testing & Validation, 
+
+### Data Platforms
+- Oracle, SQL Server, MySQL, PostgreSQL, CI/CD, Git, JIRA, HP ALM, Agile / Scrum methodology
 
 ---
 
@@ -52,23 +42,25 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 *May 2021 – Aug 2023 | Pune, India*  
 **Client:** SingTel (Singapore Telecommunications)
 
-- Analyzed **10M+ daily telecom transactions** to identify data inconsistencies, reducing reporting discrepancies by **35%**
-- Built and automated **SQL-based data pipelines** feeding enterprise dashboards
-- Designed and maintained **Tableau & Power BI dashboards** for KPI monitoring
-- Collaborated with engineering, finance, and business teams to deliver **compliance-ready reports**
-- Reduced manual reporting effort by **25%** through automation
+- Built and maintained analytics-focused **SQL transformation pipelines processing 10M+ records daily**, producing curated, business-ready datasets for reporting and operational analytics.
+- Designed dimensional **data models (fact and dimension tables)** to support consistent KPI definitions across finance, operations, and customer-facing teams.
+- Implemented **automated data validation, reconciliation, and anomaly detection** checks to ensure accuracy and reliability in analytics outputs, **reducing reporting discrepancies by 35%**.
+- Developed and supported **Power BI and Tableau dashboards** used by leadership to monitor **KPIs**, trends, and performance drivers, **improving reporting efficiency by 25%**.
+- Partnered with analysts and **business stakeholders** to define metrics, standardize reporting logic, and improve data transparency.
+- Reduced **reporting discrepancies by 35% and manual reporting effort by 25%** through better modeling and automation.
 
 ---
 
 ### **Accenture — Associate Software Engineer**  
-*Apr 2020 – May 2021 | Pune, India*  
+*Nov 2018 – May 2021 | Pune, India*  
 **Client:** British Telecommunications (BT)
 
-- Designed and optimized **ETL and data warehouse pipelines**
-- Automated recurring ETL workflows using **Python and SQL**
-- Improved data load performance by **30%**
-- Performed rigorous **data validation testing** ensuring **99% accuracy**
-- Recognized as **“Best System Expert”** for resolving critical production issues
+- Designed and **deployed end-to-end ETL pipelines using SQL, Python, and Informatica**, orchestrating data integration from 100+ source tables across multiple systems with **99%+ data accuracy**.
+- Designed dimensional datasets to support **BI reporting**, ensuring consistent metric definitions across teams.
+- Performed **data profiling, validation, and transformation testing** to enforce data integrity across ingestion and reporting layers.
+- Automated recurring reporting and validation workflows, improving data freshness and **reducing manual effort by 30%**.
+- Authored **clear documentation for data models**, transformations, and reporting logic to support governance and maintainability.
+- Awarded **“Best System Expert”** for analytics rigor, reliability, and stakeholder collaboration
 
 ---
 
@@ -98,7 +90,24 @@ Report - [Diabetes Prediction Report](https://github.com/krishnabisoi/Machine_Le
 
 **Skills:** Python, Pandas, NumPy, Matplotlib/ Seaborn, Scikit-learn, Model Selection, Data Visualization
 
-![]()
+![Diabetes Prediction](https://github.com/krishnabisoi/Machine_Learning/blob/master/Diabetes_Dataset/visuals/01_Features_vs_BMI.png)
+
+---
+
+### Global Esports Performance & Industry Analysis
+
+This project analyzes the **global esports ecosystem** from a business and financial perspective, focusing on **prize earnings, player participation, game dominance, genre economics, and tournament structure** using historical esports data.
+The analysis explores how a **$1.89B global industry** is distributed across game titles, competitive genres, and offline vs online tournaments. A key insight uncovered is the structural difference between **games that dominate financially** and those that lead in **player participation**, highlighting the contrast between popularity and payout in competitive gaming.
+
+The project is presented through an **interactive Tableau dashboard** designed for business stakeholders, investors, and analysts to understand where value is created in esports and how strategic decisions can be guided by data.
+
+Dashboard – [Global Esports Performance Tableau Dashboard](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/Iron_Viz_Global_Esports_Performance_Analysis.twbx)
+
+Dataset – [Esports Earnings Dataset (Kaggle)](https://www.kaggle.com/datasets/rankirsh/esports-earnings)
+
+**Skills:** Tableau, Data Visualization, Business Analytics, Market Analysis, Data Storytelling
+
+![Global_Esports_Overview](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/Global_Esports_Performance_Dashboard.png)
 
 ---
 
