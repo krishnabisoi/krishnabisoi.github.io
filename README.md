@@ -66,7 +66,7 @@ I’ve worked in **production environments** at Accenture and Amdocs supporting 
 
 ## 📊 Projects
 
-### Electric Vhicle Trends & Range Forecasting
+### Electric Vehicle Trends & Range Forecasting
 This project analyzes Electric Vehicle (EV) adoption trends in the United States, with a deep focus on Washington State, using publicly available government data. The study examines Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) to uncover patterns in adoption, electric range, pricing, and geographic distribution.
 
 Beyond exploratory analysis, the project builds a machine learning model to predict EV type using vehicle attributes such as make, model year, and electric range.
