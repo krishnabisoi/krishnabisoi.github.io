@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I am a **Data Analyst with 5 years of experience** working across **telecom, enterprise data platforms, and analytics systems**, currently completing my **Master’s in Data Analytics** from Clark University.
+I am a **Data Analyst with ~5 years of experience** working across **telecom, enterprise data platforms, and analytics systems**, currently completing my **Master’s in Data Analytics** from Clark University.
 
 I specialize in:
 - Turning **large, messy datasets (10M+ records)** into reliable insights.
